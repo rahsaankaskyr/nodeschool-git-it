@@ -18,8 +18,9 @@ Nodeschool.io - Git-it
 > commit to it
 	- create new file
 	$ git status
-	$ git ad <FILENAME.txt>
+	$ git add <FILENAME.txt>
+	$ git add . [ add all files & changes]
 	$ git commit -m "created FILENAME.txt"
 
-	- make changes
+	- view changes to files
 	$ git diff
