@@ -14,3 +14,5 @@ Nodeschool.io - Git-it
 	$ cd <FOLDERNAME>
 	$ git init
 	$ git status
+
+> 
