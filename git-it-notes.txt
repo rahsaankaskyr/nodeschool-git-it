@@ -78,7 +78,12 @@
 		- with fork address
 		- upstream remote with address to original
 
-	
+	- add a remote
+	$ git remote add <REMOTENAME> <URL>	
+	- change a remote URL
+	$ git remote set-url <REMOTENAME> <URL>
+	- view remote connections
+	$ git remote -v
 
 
 
