@@ -1,0 +1,11 @@
+
+Nodeschool.io - Git-it
+
+
+> install git and config user name & email
+
+	$ git --version
+	$ git config --global user.name "Your Name"
+	$ git config --global user.email "email@email.com"
+
+> repositories 
