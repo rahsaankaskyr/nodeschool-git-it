@@ -45,4 +45,25 @@
 	- license - type of license you put on your project
 		- choosealicense.com
 
+	- connect local to remote
+		$ git remote add origin <URLFROMGITHUB>
 	
+	- push work to remote 
+		$ git push origin master
+	
+
+	- add remote connection
+		$ git remote add <REMOTENAME> <URL>
+	- set a URL to a remote
+		$ git remote set-url <REMOTENAME> <URL>
+	- pull in changes
+		$ git pull <REMOTENAME> <BRANCHNAME>
+	- view remote addresses
+		$ git remote -v
+	- 
+
+
+
+
+
+
