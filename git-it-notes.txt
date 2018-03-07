@@ -1,21 +1,21 @@
 
-Nodeschool.io - Git-it
+	Nodeschool.io - Git-it
 
 
-> install git and config user name & email
+> 1 install git and config user name & email
 
 	$ git --version
 	$ git config --global user.name "Your Name"
 	$ git config --global user.email "email@email.com"
 
-> repositories 
+> 2 repositories 
 	- create repo
 	$ mkdir <FOLDERNAME>
 	$ cd <FOLDERNAME>
 	$ git init
 	$ git status
 
-> commit to it
+> 3 commit to it
 	- create new file
 	$ git status
 	$ git add <FILENAME.txt>
@@ -25,9 +25,24 @@ Nodeschool.io - Git-it
 	- view changes to files
 	$ git diff
 
-> gitHubbin
+> 4 gitHubbin
 	- add GitHub username to git
 	$ git config --global user.name <ACCOUNT_NAME>
 	$ git config --global user.email <EMAIL>
 	$ git config --global user.username <USER_NAME>
 	$ git config --global user.username <TO CHECK>
+
+> 5 remote control
+	- create a remote repo
+	- readme, gitignores, and licenses
+	- readme - explains what the project is	
+		- how to use it
+		- how to contribute [contributing.md]
+
+	- .gitignore - is a list of files, Git should not track
+		- example - files with passwords
+
+	- license - type of license you put on your project
+		- choosealicense.com
+
+	
