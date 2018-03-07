@@ -15,4 +15,11 @@ Nodeschool.io - Git-it
 	$ git init
 	$ git status
 
-> 
+> commit to it
+	- create new file
+	$ git status
+	$ git ad <FILENAME.txt>
+	$ git commit -m "created FILENAME.txt"
+
+	- make changes
+	$ git diff
