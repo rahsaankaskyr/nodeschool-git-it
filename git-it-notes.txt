@@ -9,3 +9,8 @@ Nodeschool.io - Git-it
 	$ git config --global user.email "email@email.com"
 
 > repositories 
+	- create repo
+	$ mkdir <FOLDERNAME>
+	$ cd <FOLDERNAME>
+	$ git init
+	$ git status
