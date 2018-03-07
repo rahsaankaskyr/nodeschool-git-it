@@ -60,7 +60,10 @@
 		$ git pull <REMOTENAME> <BRANCHNAME>
 	- view remote addresses
 		$ git remote -v
-	- 
+	- push changes
+		$ git push <REMOTENAME> <BRANCH>
+
+> 6 forks and clones
 
 
 
