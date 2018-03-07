@@ -85,6 +85,27 @@
 	- view remote connections
 	$ git remote -v
 
+> 7 branches aren't just for birds
+	- 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
