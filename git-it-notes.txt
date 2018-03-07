@@ -64,6 +64,23 @@
 		$ git push <REMOTENAME> <BRANCH>
 
 > 6 forks and clones
+	https://github.com/takonyc/patchwork
+	- terminal - clone repo
+	$ git clone https://github.com/takonyc/patchwork
+	$ cd patchwork
+	$ git remote -v
+
+	- connect to original repo
+	- pull changes
+	$ git remote add upstream https://github.com/jlord/patchwork.git
+	$git remote -v
+	- origin remote
+		- with fork address
+		- upstream remote with address to original
+
+	
+
+
 
 
 
