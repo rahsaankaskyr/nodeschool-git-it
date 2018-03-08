@@ -87,7 +87,8 @@
 
 > 7 branches aren't just for birds
 	-  http://githubusername.github.io/repositoryname
-	- create a branch	
+	- create a branch
+	
 
 
 
