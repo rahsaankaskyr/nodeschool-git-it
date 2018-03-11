@@ -88,11 +88,21 @@
 > 7 branches aren't just for birds
 	-  http://githubusername.github.io/repositoryname
 	- create a branch
+	$ git branch <add-BRANCHNAME>
 	
+	- checkout branch to work on it
+	$ git checkout <add-BRANCHNAME>
 
+	- create a new file with text-editor
+	- save to patchwork/contributors/add-username.txt
 
-
-
+	- steps for checking projects
+	$ git status
+	$ git add <contributors/FILENAME>
+	$ git commit -m "commit message"
+	
+	- push update to new fork 'origin'
+	$ git push origin <BRANCHNAME>
 
 
 
